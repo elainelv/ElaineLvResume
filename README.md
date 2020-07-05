@@ -1,4 +1,4 @@
-<img style="float:right" src="./lyn.jpg" width = "150" height = " 160" alt="xxx" />
+<img style="float:right" src="./lyn.jpg" width = "145" height = " 150" alt="xxx" />
 
 Hello! My name is **Yina Lv(吕熠娜)**. 
 Currently, I'm a Ph.D student at East China Normal University in the group of Liang Shi.
