@@ -21,7 +21,7 @@ Flash Memory, Reliability, 3D Stacking Memory, Qos, Latency
 
 - [**[DAC'2020](https://www.dac.com/)**][**[PDF]()**] **Y. Lv**, L. Shi, Q. Li, C. J. Xue and E. Sha, "Access Characteristic Guided Partition for Read Performance Improvement on Solid State Drives," the 57th Design Automation Conference. July 20-24, 2020. (**CCF-A**)
 
-- [**[NAS'2019](http://www.nas-conference.org/NAS-2019/)**][**[PDF](https://ieeexplore.ieee.org/document/8834728)**] **Y. Lv**, L. Shi, Q. Li, C. Gao, C. J. Xue and E. Sha, "Optimizing Tail Latency of LDPC based Flash Memory Storage Systems Via Smart Refresh," IEEE International Conference on Networking, Architecture and Storage (NAS), EnShi, China. August 15−17, 2019.(**EI 国际会议**)
+- [**[NAS'2019](http://www.nas-conference.org/NAS-2019/)**][**[PDF](https://ieeexplore.ieee.org/document/8834728)**] **Y. Lv**, L. Shi, Q. Li, C. Gao, C. J. Xue and E. Sha, "Optimizing Tail Latency of LDPC based Flash Memory Storage Systems Via Smart Refresh," IEEE International Conference on Networking, Architecture and Storage (NAS), EnShi, China. August 15−17, 2019.(**EI**)
 
 ## Education
 - M.S at **East China Normal University**, Shanghai, China(*Sep, 2018 - now*)
