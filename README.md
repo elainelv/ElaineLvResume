@@ -1,4 +1,4 @@
-<img style="float:right" src="./lyn.jpg" width = "130" alt="xxx" />
+<img style="float:right" src="./lyn.jpg" width = "180" height = " 200" alt="xxx" />
 
 Hello! My name is Yina Lv(吕熠娜). 
 
@@ -13,7 +13,7 @@ In my spare time, I prefer to watch some reality shows and films.
 
 [Website](https://www.elainelv.com)| [GitHub](https://github.com/elainelv/) | [Facebook](https://www.facebook.com/yina.lv.75)
 
-Email: lvyina1314@163.com, elainelv95@gmail.com
+**Email:** lvyina1314@163.com, elainelv95@gmail.com
 
 ## Research Key Words
 Flash Memory, Reliability, 3D Stacking Memory, Qos, Latency
