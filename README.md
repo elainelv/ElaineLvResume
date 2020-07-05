@@ -1,6 +1,8 @@
-<img style="float:right" src="./lyn.jpg" width = "150" alt="xxx" />
+<img style="float:right" src="./lyn.jpg" width = "130" alt="xxx" />
 
-Hello! My name is Yina Lv. I'm a Ph.D student at East China Normal University in the group of Liang Shi.
+Hello! My name is Yina Lv(吕熠娜). 
+
+Currently, I'm a Ph.D student at East China Normal University in the group of Liang Shi.
 
 I major in Computer Science and Technology. Specifically, I specialize in the Qos of storage. 
 
