@@ -1,4 +1,4 @@
-<img style="float:right" src="https://github.com/elainelv/elainelv.github.io/blob/master/img/lyn-draw.jpg" width = "300" height = "400" alt="xxx" />
+<img style="float:right" src="./lyn.jpg" width = "300" height = "400" alt="xxx" />
 
 Hello! My name is Yina Lv. I'm a Ph.D student at East China Normal University in the group of Liang Shi. I major in Computer Science and Technology. Specifically, I specialize in the Qos of storage. In my spare time, I prefer to watch some reality shows and films.
 
