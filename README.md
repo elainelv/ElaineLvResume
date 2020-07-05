@@ -1,12 +1,9 @@
 <img style="float:right" src="./lyn.jpg" width = "180" height = " 200" alt="xxx" />
 
-Hello! My name is Yina Lv(吕熠娜). 
-
+Hello! My name is **Yina Lv(吕熠娜)**. 
 Currently, I'm a Ph.D student at East China Normal University in the group of Liang Shi.
-
-I major in Computer Science and Technology. Specifically, I specialize in the Qos of storage. 
-
-In my spare time, I prefer to watch some reality shows and films.
+I major in Computer Science and Technology. Specifically, I specialize in the QoS of storage. 
+In my spare time, I like to listen to music, watch reality shows or comedies. Playing sports is also the choice to relax myself!
 
 
 ## Contact
@@ -16,6 +13,7 @@ In my spare time, I prefer to watch some reality shows and films.
 **Email:** lvyina1314@163.com, elainelv95@gmail.com
 
 ## Research Key Words
+
 Flash Memory, Reliability, 3D Stacking Memory, Qos, Latency
 
 ## Publications
@@ -28,3 +26,7 @@ Flash Memory, Reliability, 3D Stacking Memory, Qos, Latency
 ## Education
 - M.S at **East China Normal University**, Shanghai, China(*Sep, 2018 - now*)
 - B.S at **NingBo University**, Zhejiang, China(*Sep, 2014 - Jun, 2018*)
+
+
+
+
