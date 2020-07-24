@@ -1,10 +1,9 @@
 <img style="float:right" src="./lyn.jpg" width = "145" height = " 150" alt="xxx" />
 
-Hello! My name is **Yina Lv(吕熠娜)**. 
-Currently, I'm a Ph.D student at East China Normal University in the group of Liang Shi.
+Hi! My name is **Yina Lv(吕熠娜)**. Currently I am a PhD candidate at East China Normal University in the group of Liang Shi. 
 I major in Computer Science and Technology. Specifically, I specialize in the QoS of storage. 
-In my spare time, I like to listen to music, watch reality shows or comedies. Playing sports is also the choice to relax myself!
-
+I'm open-minded and a girl with positive attitude. 
+In my spare time, I like listening to music, watching reality shows or comedies. Playing sports and games are also the choice to relax myself!
 
 ## Contact
 
